@@ -1,0 +1,6 @@
+#!/bin/bash
+#Alysa Liann Vega
+#alysa.vega72@myhunter.cuny.edu
+
+echo "Hello CSCI127 Students!"
+echo "$USER is learning shell scripts!"
